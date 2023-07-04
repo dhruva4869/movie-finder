@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/movie-finder/static/css/main.2689445e.css",
+    "main.js": "/movie-finder/static/js/main.b661a7d0.js",
+    "static/js/787.e253fc0a.chunk.js": "/movie-finder/static/js/787.e253fc0a.chunk.js",
+    "static/media/gbb.jpg": "/movie-finder/static/media/gbb.a647a9c761ce6a479157.jpg",
+    "static/media/oops.png": "/movie-finder/static/media/oops.f76a51f0942baa83c610.png",
+    "index.html": "/movie-finder/index.html",
+    "static/media/search.svg": "/movie-finder/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.2689445e.css.map": "/movie-finder/static/css/main.2689445e.css.map",
+    "main.b661a7d0.js.map": "/movie-finder/static/js/main.b661a7d0.js.map",
+    "787.e253fc0a.chunk.js.map": "/movie-finder/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2689445e.css",
+    "static/js/main.b661a7d0.js"
+  ]
+}
